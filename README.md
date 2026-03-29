@@ -1,7 +1,7 @@
 # MuWi UHH typst template 
 This repository comtains a typst template adhering to the styleguide of the Musicology faculty at the University of Hamburg. It is noteworthy that typst does linespacing differently than LaTeX or Word.
  
-⚠️ This template may be out of date! The current version is [this](https://www.kulturwissenschaften.uni-hamburg.de/sm/studium/dokumente/richtlinien-abschluss-und-hausarbeiten.pdf) one ⚠️
+⚠️ This template may be out of date! The current version is from February 2026 ⚠️
 
 
 ## Example usage
