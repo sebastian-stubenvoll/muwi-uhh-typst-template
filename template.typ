@@ -20,6 +20,8 @@
     top-edge: 0.7em,
     bottom-edge: -0.3em,
     font: "Times New Roman",
+    size: 11pt,
+    lang: "de",
   )
 
   set heading(numbering: "1.1")
